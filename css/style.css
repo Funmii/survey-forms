@@ -1,0 +1,49 @@
+body{
+    background-color:rgba(0, 128, 79, 0.329);
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+    padding-top: 20px;
+}
+.surveey{
+    background-color: ivory;
+    margin: 50px;
+
+}
+.survey-group{
+    margin: 30px;
+    padding-left: 120px;
+}
+.survey-input{
+    width: 300px;
+    height: 20px;
+
+}
+.checkbox-input{
+    text-align: inherit;
+}
+.survey-label{
+    height: 20px;
+    width: 300px;
+}
+button{
+    margin-left: 45%;
+    padding: 10px;
+    font-family: sans-serif;
+    width: 100px;
+    margin-bottom: 14px;
+    border-radius: 5px;
+    box-shadow: none;
+    cursor: pointer;
+    transition-duration: 0.5s;
+    font-weight: bold;
+}
+button:hover{
+    background-color:#e7e7e7;
+}
